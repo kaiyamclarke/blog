@@ -3,7 +3,7 @@
 theme: hugo-theme-yue
 baseURL: https://kaiyamclarke.github.io/ # Change this to your real domain name, e.g. https://my-cool-domain.org/
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 enableGitInfo: false # Set lastmod from git history, this may increase build time
 enableEmoji: true # Emoji list: https://gohugo.io/quick-reference/emojis/
 enableRobotsTXT: true
