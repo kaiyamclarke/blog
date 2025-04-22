@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-yue"]
 	path = themes/hugo-theme-yue
 	url = https://github.com/CyrusYip/hugo-theme-yue
+[submodule "public"]
+	path = public
+	url = https://github.com/kaiyamclarke/kaiyamclarke.github.io.git
